@@ -4,9 +4,9 @@ import com.google.common.base.Joiner;
 
 public class HelloOtus {
 
-    public String[] strs =  {"a","s"};
+    public String[] strs =  {"Hello","Otus"};
 
     public String joinRows() {
-        return Joiner.on(",").skipNulls().join(strs);
+        return Joiner.on(", ").skipNulls().join(strs);
     }
 }
