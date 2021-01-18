@@ -13,7 +13,7 @@
 
     <properties>
         <jdk.version>12</jdk.version>
-        <package.main.class>com.home.project.pet1.Main</package.main.class>
+        <package.main.class>com.home.project.pet1.spr.project.Main</package.main.class>
     </properties>
 
     <dependencies>
